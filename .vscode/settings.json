@@ -10,5 +10,9 @@
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
         "editor.formatOnPaste": true,
-    }
+    },
+    "lldb.displayFormat": "auto",
+    "lldb.showDisassembly": "auto",
+    "lldb.dereferencePointers": true,
+    "lldb.consoleMode": "evaluate"
 }
